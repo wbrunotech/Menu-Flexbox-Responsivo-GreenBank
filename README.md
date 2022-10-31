@@ -9,5 +9,5 @@ O projeto pode ser visualizado clicando aqui --> https://weybruno.github.io/Menu
 
 #### Tecnologias utilizadas
 - HTML - Semântico
-- CSS - Responsivo
+- CSS
 - Git
