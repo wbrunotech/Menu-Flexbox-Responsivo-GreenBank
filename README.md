@@ -1,6 +1,6 @@
 # Desafio - Menu de Navegação, Responsivo e com Flexbox.
 
-## Criei neste projeto um Menu Responsivo, baseado em uma instituição Bancária imaginária, Fiz uso das seguintes tecnologias: HTML + CSS. 
+## Criei neste projeto um Menu baseado em uma instituição Bancária imaginária, Fiz uso das seguintes tecnologias: HTML + CSS. 
 Tomei algumas dimensões obtidas no FIGMA como base na elaboração do layout do projeto.
 
 
